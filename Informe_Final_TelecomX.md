@@ -158,9 +158,7 @@
 - Aplicar segmentación para acción temprana en clientes de riesgo.
 - Integrar variables clave en modelos de predicción.
 
----
 
-**Elaborado por:** Bibiana Trujillo Cedeño\
-**Programa:** ONE + Alura LATAM\
-**Especialización:** Ciencia de Datos
+
+
 
